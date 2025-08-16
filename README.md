@@ -9,6 +9,12 @@ O usuário pode adicionar nomes a uma lista e, ao final, realizar um sorteio ale
 
 ---
 
+## Link de acesso 
+Este projeto foi publicado atravéz do Github Pages e pode ser compartilhado e testado atravéz do link:
+https://adilmaoliveira.github.io/challenge-amigo-secreto_ONE_G9/
+
+---
+
 ## ⚙️ Funcionalidades
 - ➕ **Adicionar nomes** à lista de amigos.
 - ✅ **Validação de entrada** (não permite nomes vazios).
